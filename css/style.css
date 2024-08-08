@@ -13,7 +13,8 @@ h4,
 h5,
 h6,
 p {
-  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 a {
@@ -24,7 +25,7 @@ ul,
 ol {
   list-style-type: none;
   padding: 0;
-  margin: 0%;
+  margin: 0;
 }
 /* #endregion reset */
 
@@ -152,6 +153,7 @@ ol {
 
 /* #region about */
 .section-about {
+  
 }
 
 .about-main-title {
@@ -163,6 +165,8 @@ ol {
 }
 
 .about-list {
+  display: flex;
+    align-items: center;
 }
 
 .about-item {
@@ -198,6 +202,8 @@ ol {
 }
 
 .team-list {
+  display: flex;
+    align-items: center;
 }
 
 .team-item {
@@ -241,6 +247,8 @@ ol {
 }
 
 .portfolio-list {
+  display: flex;
+    align-items: center;
 }
 
 .portfolio-item {
