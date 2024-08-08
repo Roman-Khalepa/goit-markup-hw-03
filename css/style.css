@@ -153,7 +153,6 @@ ol {
 
 /* #region about */
 .section-about {
-  
 }
 
 .about-main-title {
@@ -166,7 +165,7 @@ ol {
 
 .about-list {
   display: flex;
-    align-items: center;
+  align-items: center;
 }
 
 .about-item {
@@ -203,7 +202,7 @@ ol {
 
 .team-list {
   display: flex;
-    align-items: center;
+  align-items: center;
 }
 
 .team-item {
@@ -248,7 +247,7 @@ ol {
 
 .portfolio-list {
   display: flex;
-    align-items: center;
+  align-items: center;
 }
 
 .portfolio-item {
